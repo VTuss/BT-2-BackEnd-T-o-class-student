@@ -1,0 +1,49 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.userprefs
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# ASP.NET artifacts
+appsettings.Development.json
+appsettings.Local.json
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Backup & transient
+*.tmp
+*.temp
+*.bak
+*.swp
+*.DS_Store
+
+# Publish outputs
+wwwroot/
+dist/
+
+# Coverage
+coverage*
+*.opencover.xml
+*.coverage
+*.coveragexml
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
